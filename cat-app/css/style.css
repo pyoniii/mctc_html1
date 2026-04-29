@@ -1,0 +1,22 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:rgb(81, 151, 175)
+}
+
+h1 {
+    font-family: "Georgia", serif;
+    font-size: 50px;
+    font-weight: 3000px;
+    font-variant: small-caps;
+}
+#mycat {
+    width: 400px;
+}
+
+#mycat2 {
+    width: 300px;
+}
+
+#kittychaos {
+    width: 200px;
+}
